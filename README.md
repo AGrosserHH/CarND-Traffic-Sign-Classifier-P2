@@ -24,3 +24,6 @@ Run this command at the terminal prompt to install [OpenCV](http://opencv.org/).
 
 Download the data set from 
 https://d17h27t6h515a5.cloudfront.net/topher/2016/November/581faac4_traffic-signs-data/traffic-signs-data.zip
+
+For a good introduction to CNN:
+https://brohrer.github.io/how_convolutional_neural_networks_work.html
